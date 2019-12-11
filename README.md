@@ -1,5 +1,5 @@
 # style-guides
-Style Guides for languages used by Illumiante
+Style Guides for languages used by Illuminate
 
 ### [SQL](sql/README.md)
 
